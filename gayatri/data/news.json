@@ -1,0 +1,19 @@
+{
+    "news": [
+        {
+            "date": "02-07-2022",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet diam vitae odio sagittis vulputate. Duis in diam neque. Nam quam est, dictum et volutpat vitae, fermentum ut ipsum.",
+            "link": "#"
+        },
+        {
+            "date": "11-09-2022",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet diam vitae odio sagittis vulputate. Duis in diam neque. Nam quam est, dictum et volutpat vitae, fermentum ut ipsum.",
+            "link": "#"
+        },
+        {
+            "date": "18-09-2022",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet diam vitae odio sagittis vulputate. Duis in diam neque. Nam quam est, dictum et volutpat vitae, fermentum ut ipsum.",
+            "link": "#"
+        }
+    ]
+}

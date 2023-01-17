@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/assets/styles/main.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Mono|Lato|Rokkitt" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css"
+        integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
+
+    <title>
+        Hello, world.
+    </title>
+</head>
+
+<body>
+
+
+    <div id="not-footer">
+        <div id="navbar">
+            <div id="inner-navbar">
+                <header>
+                    <a href="/">
+                        <img src="/assets/images/cc_logo1.png" alt="NISER Logo">
+                    </a>
+                    <h1 id="mainh1">NISER Coding Club</h1>
+                </header>
+
+                <nav>
+                    <ul>
+
+                        <li>
+                            <a href="/#" class="navlink Home on">
+                                <abbr title="">
+                                    <span id="Home">
+                                        <i class="fas fa-home"></i>
+                                        <span class="sidebar-text">Home</span>
+                                    </span>
+                                </abbr>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/#projects" class="navlink Projects ">
+                                <abbr title="">
+                                    <span id="Projects">
+                                        <i class="fas fa-code-branch"></i>
+                                        <span class="sidebar-text">Projects</span>
+                                    </span>
+                                </abbr>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/#members" class="navlink Members ">
+                                <abbr title="">
+                                    <span id="Members">
+                                        <i class="fas fa-users"></i>
+                                        <span class="sidebar-text">Members</span>
+                                    </span>
+                                </abbr>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/blog.html" class="navlink Blog ">
+                                <abbr title="">
+                                    <span id="Blog">
+                                        <i class="fas fa-newspaper"></i>
+                                        <span class="sidebar-text">Blog</span>
+                                    </span>
+                                </abbr>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="navlink License ">
+                                <abbr
+                                    title="Content on this website is licensed under CC BY-NC-SA 4.0 International license.">
+                                    <span id="License">
+                                        <i class="fas fa-balance-scale"></i>
+                                        <span class="sidebar-text">License</span>
+                                    </span>
+                                </abbr>
+                            </a>
+                        </li>
+
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+
+        <div id="main-content">
+            <div class="flex">
+                <main>
+                    <h2><i class="fas fa-newspaper"></i> BLOG</h2>
+
+                    <section class="post">
+                        <h3>Hello, world.</h3>
+                        <ul>
+                            <li class="date">
+                                <span class="date">
+                                    <i class="far fa-calendar"></i>
+                                    1 May 2019</span>
+                            </li>
+                            <li class="author">
+
+
+
+
+
+
+
+
+
+                                <img src=" /assets/images/members/ayush.jpg">
+                                <i class="fas fa-pen"></i>
+                                <span class="author"> Ayush Singh</span>
+
+                            </li>
+                        </ul>
+                        <p>The Software Development Group at NISER has been operational since the fall of
+                            2018, with the aim of bringing together people from different
+                            disciplines who prefer a code first approach to solving problems.</p>
+
+                        <p>Over the past few months, we have been working on certain projects, like the
+                            <a href="https://github.com/sdgniser/arc">NISER Archive</a> and a <a
+                                href="https://github.com/sdgniser/timetable">timetable
+                                generator</a>, which are nearly complete
+                            now.
+                        </p>
+
+                        <p>We encourage people who have any novel idea that could help the
+                            institution and might be implemented in code, to contact us.
+                            We can be reached via email at <a href="">sdg [at] niser [dot] ac [dot] in</a>.
+                            You may also <a href="https://github.com/sdgniser">follow us on GitHub</a>, and
+                            <a href="/feed.xml">subscribe to our blog via RSS</a>.
+                        </p>
+
+                    </section>
+
+                    <!-- Hacky -->
+                    <script>
+                        document.querySelector('nav ul a.Home').classList.remove('on');
+                        document.querySelector('nav ul a.Blog').classList.add('on');
+                    </script>
+                    <!-- Seriously, find a better way -->
+
+                </main>
+
+                <aside>
+                    <div id="aside-wrapper">
+                        <div class="about">
+                            <h4>About</h4>
+                            <p id="pretentious-quote">NISER Software Development Group has been constituted to bring
+                                together people from various disciplines, who prefer a code-first approach to solving
+                                problems.</p>
+                        </div>
+
+                        <div class="blog">
+                            <h4>Recent Blog Posts</h4>
+                            <ul>
+
+                                <li><a href="/2019/05/01/hello-world.html">Hello, world.</a></li>
+
+                                <li class="linkToMore"><a href="blog">Archive</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="social">
+                            <h4>Contact us</h4>
+                            <!-- The images have been taken from the SNS's press kits;
+          It's okay to use the images here -->
+                            <ul>
+
+                                <li><a href="https://github.com/sdgniser">
+                                        <abbr title="NISER Software Development Group on GitHub">
+                                            <img src="/assets/images/social/github-light.png">
+                                        </abbr>
+                                    </a>
+
+                                <li><a href="">
+                                        <abbr title="Email NISER SDG at sdg [at] niser [dot] ac [dot] in">
+                                            <img src="/assets/images/social/email.png">
+                                        </abbr>
+                                    </a>
+
+                                <li><a href="/feed.xml">
+                                        <abbr title="Follow our RSS feed">
+                                            <img src="/assets/images/social/feed-light.png">
+                                        </abbr>
+                                    </a>
+
+                            </ul>
+                        </div>
+                    </div>
+
+                </aside>
+
+            </div>
+            <footer>
+            </footer>
+
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="/assets/scripts/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,83 @@
+{
+    "current_members": [
+        {
+            "name": "Subhankar Mishra",
+            "desc": "Assistant Professor, School of Computer Sciences, NISER",
+            "image": "images/user.png",
+            "email": "",
+            "github": ""
+        },
+        {
+            "name": "Rahul Vishwakarma",
+            "desc": "/* NO COMMENTS */",
+            "image": "images/user.png",
+            "email": "",
+            "github": ""
+        },
+        {
+            "name": "Ayush Singh",
+            "desc": "I write all my code in Notepad without IntelliSense.",
+            "image": "images/user.png",
+            "email": "",
+            "github": ""
+        },
+        {
+            "name": "Jyotirmaya Shivottam",
+            "desc": "cogito ergo sum?!",
+            "image": "images/user.png",
+            "email": "",
+            "github": ""
+        },
+        {
+            "name": "K. Sannidhya Shukla",
+            "desc": "I code, when I am not being bad at math.",
+            "image": "images/user.png",
+            "email": "",
+            "github": ""
+        },
+        {
+            "name": "Abhishek Anil Deshmukh",
+            "desc": "I send emails from my terminal",
+            "image": "images/user.png",
+            "email": "",
+            "github": ""
+        },
+        {
+            "name": "Spandan Anupam",
+            "desc": "Gonna give you up (for sure)",
+            "image": "images/user.png",
+            "email": "",
+            "github": ""
+        }
+    ],
+    "older_members": [
+        {
+            "name": "John Doe",
+            "desc": "...",
+            "image": "images/user.png",
+            "email": "",
+            "github": ""
+        },
+        {
+            "name": "John Doe",
+            "desc": "...",
+            "image": "images/user.png",
+            "email": "",
+            "github": ""
+        },
+        {
+            "name": "John Doe",
+            "desc": "...",
+            "image": "images/user.png",
+            "email": "",
+            "github": ""
+        },
+        {
+            "name": "John Doe",
+            "desc": "...",
+            "image": "images/user.png",
+            "email": "",
+            "github": ""
+        }
+    ]
+}

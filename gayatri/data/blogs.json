@@ -1,0 +1,84 @@
+{
+    "blogs": [
+        {
+            "title": "blog 1",
+            "image": "images/code.jpg",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet diam vitae odio sagittis vulputate. Duis in diam neque. Nam quam est, dictum et volutpat vitae, fermentum ut ipsum.",
+            "link": "#"
+        },
+        {
+            "title": "blog 2",
+            "image": "images/code.jpg",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet diam vitae odio sagittis vulputate. Duis in diam neque. Nam quam est, dictum et volutpat vitae, fermentum ut ipsum.",
+            "link": "#"
+        },
+        {
+            "title": "blog 3",
+            "image": "images/code.jpg",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet diam vitae odio sagittis vulputate. Duis in diam neque. Nam quam est, dictum et volutpat vitae, fermentum ut ipsum.",
+            "link": "#"
+        },
+        {
+            "title": "blog 4",
+            "image": "images/code.jpg",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet diam vitae odio sagittis vulputate. Duis in diam neque. Nam quam est, dictum et volutpat vitae, fermentum ut ipsum.",
+            "link": "#"
+        },
+        {
+            "title": "blog 5",
+            "image": "images/code.jpg",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet diam vitae odio sagittis vulputate. Duis in diam neque. Nam quam est, dictum et volutpat vitae, fermentum ut ipsum.",
+            "link": "#"
+        },
+        {
+            "title": "blog 6",
+            "image": "images/code.jpg",
+            "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet diam vitae odio sagittis vulputate. Duis in diam neque. Nam quam est, dictum et volutpat vitae, fermentum ut ipsum.",
+            "link": "#"
+        }
+    ],
+    "projects": [
+        {
+            "name": "NISER Canteen Menu",
+            "website": "https://www.niser.ac.in/hostels/canteenmenu/",
+            "source": "https://github.com/smlab-niser/niser-canteen-menu",
+            "image": "images/canteen.jpg"
+        },
+        {
+            "name": "Time Table Generator",
+            "website": "http://10.0.2.35/timetable/",
+            "source": "https://github.com/sdgniser/timetable",
+            "image": "images/code.jpg"
+        },
+        {
+            "name": "NISER Archive",
+            "website": "http://10.0.2.35/arc/",
+            "source": "http://10.0.2.35/arc/",
+            "image": "images/code.jpg"
+        },
+        {
+            "name": "Lost and Found",
+            "website": "http://10.0.2.35/lnf/",
+            "source": "https://github.com/sdgniser/lnf",
+            "image": "images/code.jpg"
+        },
+        {
+            "name": "NISER Listings",
+            "website": "http://10.0.2.35/listings/",
+            "source": "https://github.com/sdgniser/listings",
+            "image": "images/code.jpg"
+        },
+        {
+            "name": "ID Card (photo and signature) Collector",
+            "website": "http://10.0.2.35:8002/",
+            "source": "https://github.com/sdgniser/data_collection",
+            "image": "images/code.jpg"
+        },
+        {
+            "name": "Reportinator",
+            "website": "",
+            "source": "https://github.com/sdgniser/reportinator",
+            "image": "images/code.jpg"
+        }
+    ]
+}
